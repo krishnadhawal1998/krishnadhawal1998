@@ -1,5 +1,5 @@
 
-Google and IBM Certified **Data Scientist** and Python Developer.
+Google and IBM Certified **Data Scientist** and **Python Developer**.
 Data Scientist, specialized in using Python programming for large-scale on-
 line/offline data analytics. Experienced in handling heterogeneous data-sets from
 Medical, Industrial, Automation domains, in addition to domain-independent
